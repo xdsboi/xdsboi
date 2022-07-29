@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi I'm JJ!
 
-<!--
-**xdsboi/xdsboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdsboi &theme=cobalt)
 
-Here are some ideas to get you started:
+### Infos about me
+- I am a software developer and student.
+- I am currently learning C# for game development and trying out new things!
+- I would love to meet new people with the same interests and goals as me.
+- I have experience in many languages such as: python, JS, HTML, CSS and C#.
+- I love cats!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Meet new people and make friends.
+- Get better at C#.
+- Make my own website.
+
+### How to contact me?
+- [Twitter](https://twitter.com/xdsboi)
+ - [Instagram](https://www.instagram.com/xdsdev/)
+- Discord: xdsboi#0026
