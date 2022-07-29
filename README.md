@@ -1,6 +1,6 @@
 # Hi I'm JJ!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdsboi &theme=cobalt)
+![xdsboi GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### Infos about me
 - I am a software developer and student.
