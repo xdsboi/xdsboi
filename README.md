@@ -16,5 +16,6 @@
 
 ### How to contact me?
 - [Twitter](https://twitter.com/xdsboi)
- - [Instagram](https://www.instagram.com/xdsdev/)
+- [Instagram](https://www.instagram.com/xdsdev/)
+- Email: JJdevcontact@gmail.com
 - Discord: xdsboi#0026
